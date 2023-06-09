@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "santhosh.app.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'santhosh.app.jwtSecret'"
+  },
+  {
+    "name": "santhosh.app.jwtExpirationMs",
+    "type": "java.lang.String",
+    "description": "A description for 'santhosh.app.jwtExpirationMs'"
+  }
+]}
